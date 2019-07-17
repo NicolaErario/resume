@@ -1,5 +1,4 @@
-# NicolaErario.github.io
-Personal website to show my skills and my portfolio
+👔 Digital resume to show my work and myskills
 
 ### Work in progress
 I plan to add:
